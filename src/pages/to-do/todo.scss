@@ -1,0 +1,17 @@
+@import "~/styles/variables";
+
+.todo-wrapper {
+  border: solid 1px $primary-color;
+  height: 100%;
+}
+
+.todo-header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: $primary-color;
+}
+
+#todo-title {
+  color: $white;
+}
