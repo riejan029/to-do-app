@@ -16,7 +16,7 @@ const Home = (): ReactElement => {
       <tr>
         <td>Centro comercial Moctezuma</td>
         <td>Francisco Chang</td>
-        <td>Mexico</td>
+        <td>Hotdog</td>
       </tr>
     </table>
   );
